@@ -4,6 +4,8 @@ User feedback and proposals based on existing Devices Widget:
 - automount block devices/other automagical ways to make things 'just work'
 - some option for a 'attach persistently' (to skip the pain of doing it via settings from a completely different device)
 - better visual differentiation of currently attached/not attached
-- more sorting etc.
+- more sorting - by qube, by device
 - start sys-usb automatically
 - when detaching, unmount/warn automatically
+- painful use of USB devices
+- camera + microphone go in tandem
